@@ -1,0 +1,15 @@
+﻿<Properties StartupConfiguration="{CBE82CF6-ABD0-447C-9670-7E943186AF8D}|Default">
+  <MonoDevelop.Ide.ItemProperties.colecciones PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="colecciones/Cita.cs">
+    <Files>
+      <File FileName="colecciones/Program.cs" Line="32" Column="40" />
+      <File FileName="colecciones/Cita.cs" Line="36" Column="7" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
